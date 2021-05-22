@@ -8,8 +8,10 @@ body{
 
 @media only screen and (max-width:600px) {
     body{
-        background-size: auto;
+        background-image: url("images/31e65801-f510-4899-9ab7-7b927cd903fb_covid19.png");
+        background-size: cover;
         background-attachment: fixed;
+
         
     }
 }
